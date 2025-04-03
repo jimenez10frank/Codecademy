@@ -1,2 +1,13 @@
-# Codecademy
-This repository documents my progress through Codecademy courses, featuring projects, exercises, and notes. Aiming to track my learning journey and showcase my development skills.
+# My Codecademy Journey
+
+## About
+I'm currently going through the Codecademy platform to improve my coding skills. This README will track my progress and key learnings along the way.
+
+## Goals
+- Learn programming fundamentals
+- Build projects
+- Stay consistent with coding practice
+
+### Projects
+- None Yet
+
